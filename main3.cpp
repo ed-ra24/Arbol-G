@@ -8,7 +8,7 @@ int main() {
 	printf("2. Abuelos\n");
 	printf("3. Tios\n");
 	printf("4. Primos\n");
-	printf("5. Vis abuelos\n");
+	printf("5. Bisabuelos\n");
 	printf("6. Hermanos\n");
 	printf("7. Sobrinos\n");
 	printf("8. Salir\n");
@@ -31,11 +31,11 @@ int main() {
 		break;
 		
 	case 4:
-		printf("\nAxel y Vanessa\n");
+		printf("\nFernando y Lilian\n");
 		break;
 		
 	case 5:
-		printf("\nMis visabuelos son \n");
+		printf("\nMis Bisabuelos son Josefino y Enrique \n");
 		break;
 		
 	case 6:
